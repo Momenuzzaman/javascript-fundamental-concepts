@@ -15,3 +15,9 @@ for(var i = 0; i <friends.length; i++){
     var friendName = friends[i];
     console.log(friendName);
 }
+
+var marks = [40, 50, 60, 70, 80, 90, 100];
+for(var i = 0; i<marks.length; i++){
+    var mark = marks[i];
+    console.log(mark);
+}
